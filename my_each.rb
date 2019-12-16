@@ -1,4 +1,3 @@
-meat = ["chicken", "beef", "fish"]
 
 def my_each(array)
   i = 0 
